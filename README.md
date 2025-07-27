@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>hello</h1>
-    <a href="www.google.com">
+    <a href="https:www.google.com">
       <button>please press</button>
     </a>
   </body>
