@@ -2,6 +2,6 @@
 <html>
   <body>
     <h1>hello</h1>
-    <button>please press</button>
+    <button href=www.google.com>please press</button>
   </body>
 </html>
