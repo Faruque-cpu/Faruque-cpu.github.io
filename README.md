@@ -1,4 +1,5 @@
-# Faruque-cpu.github.io
+
+<!DOCUTYPE html>
 <html>
   <body>
     <h1>hello</h1>
